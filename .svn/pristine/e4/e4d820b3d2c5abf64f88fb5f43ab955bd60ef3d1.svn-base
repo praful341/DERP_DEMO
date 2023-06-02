@@ -1,0 +1,22 @@
+<xpml><page quantity='0' pitch='15.0 mm'></xpml>I8,A
+ZN
+q304
+O
+JF
+KIZZQ0
+KI9+0.0
+ZT
+Q120,25
+Arglabel 150 31
+exit
+KI80
+<xpml></page></xpml><xpml><page quantity='1' pitch='15.0 mm'></xpml>N
+B275,106,2,1,2,4,45,N,"85121"
+A275,55,2,3,1,1,N,"85121"
+A275,29,2,2,1,1,N,"23/Dec/2020"
+A93,104,2,1,1,1,N,"A+G5-3011"
+A61,85,2,3,1,1,N,"1"
+A93,56,2,3,1,1,N,"8.533"
+A93,29,2,3,1,1,N,"0"
+P1
+<xpml></page></xpml><xpml><end/></xpml>
